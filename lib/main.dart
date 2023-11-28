@@ -155,7 +155,7 @@ class MyApp extends StatelessWidget {
                 ),
 
                   Text(
-              "Sign Up ",
+              "Sign  ",
               textAlign: TextAlign.center,
               style: TextStyle(
                 fontSize: 20,
